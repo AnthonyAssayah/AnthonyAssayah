@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋
-### I'm a 2nd year student in computer science at Ariel University.
+### I'm a 3nd year student in computer science at Ariel University.
 📫 How to reach me: anthonyassayah14@gmail.com
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AnthonyAssayah&show_icons=true&theme=vue-dark&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
